@@ -5,7 +5,7 @@
  3. Install Selenium: `pip install selenium`
  ## Login
  1. Open `crawl.py`
- 2. Change the userId and userPass variables' values to yours
+ 2. Change the ID & password parameters to yours
 ```
 userId.send_keys("id")
 userPass.send_keys("pw")
